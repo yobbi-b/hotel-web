@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+.header{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    max-height: 100px;
+    background-color: rgb(214, 189, 189);
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 400px;
+    margin-right: 60px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: chartreuse;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: o.5 ease;
+}
+ul li a:hover{
+    background-color: blue;
+
+}
+.logo{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+.banner text{
+    position: absolute;
+    top: 25%;
+    color: darkgreen;
+    padding: 20px;
+}
+.banner text h1{
+    position: absolute;
+    top: 25%;
+    color: darkgreen;
+    padding: 20px;
+    text-transform: uppercase;
+}
