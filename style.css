@@ -45,7 +45,7 @@ ul li a:hover{
 .banner text h1{
     position: absolute;
     top: 25%;
-    color: darkgreen;
+    color: rgb(66, 192, 66);
     padding: 20px;
     text-transform: uppercase;
 }
